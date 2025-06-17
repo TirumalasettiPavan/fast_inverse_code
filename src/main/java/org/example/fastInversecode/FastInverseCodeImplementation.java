@@ -1,6 +1,6 @@
 package org.example.fastInversecode;
 
-public class InverseSquareRoot {
+public class FastInverseCodeImplementation {
 
     public static void main(String[] args) {
         float number = 4.0f;
